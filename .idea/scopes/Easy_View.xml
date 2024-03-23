@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="Easy View" pattern="(file:server-side/index.js||file:server-side/package.json||file:.gitignore||file:README.md||file[redux-app]:client-side/sass//*||file:client-side/package.json||file:tailwind.config.js||file[redux-app]:client-side/src//*)&amp;&amp;!file:client-side/src/index.css&amp;&amp;!file:client-side/src/index.css.map&amp;&amp;!file:client-side/package-lock.json" />
+</component>
